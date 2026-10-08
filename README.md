@@ -2,7 +2,7 @@
 
 An interactive guide to the Semester 2 and Semester 3 electives, the three specialisations (NLP, Deep Learning, Audio & Vision) and the 24 careers they lead to.
 
-**Live site:** https://g-kamal.github.io/elective-map/
+**Live site:** https://g-kamal.github.io/elective-map/bits/
 
 ## What's inside
 
